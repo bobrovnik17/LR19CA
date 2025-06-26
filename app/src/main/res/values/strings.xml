@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="button_text">Получить студента</string>
+    <string name="getStudent_text">Выберите студента!</string>
+    <string-array name="students">
+        <item>Предыдущий</item>
+        <item>Текущий</item>
+        <item>Следующий</item>
+    </string-array>
+</resources>
